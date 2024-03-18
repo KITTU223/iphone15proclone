@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
+git clone https://github.com/KITTU223/iphone15proclone.git
 cd iphone-doc
 ```
 
