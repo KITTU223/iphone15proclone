@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 
 ```bash
 git clone https://github.com/KITTU223/iphone15proclone.git
+cd iphone15proclone
 ```
 
 **Installation**
